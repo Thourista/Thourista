@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/scientific-banner.svg" alt="Luis Miguel Linares-Nima — Environmental Engineer | Bioinformatics | Epidemiological and Statistical Modeling" width="100%">
+<img src="scientific-banner.svg" alt="Luis Miguel Linares-Nima — Environmental Engineer | Bioinformatics | Epidemiological and Statistical Modeling" width="100%">
 
 # Luis Miguel Linares-Nima
 
