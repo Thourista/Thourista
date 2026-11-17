@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <img src="assets/scientific-banner.svg" alt="Luis Miguel Linares-Nima — Environmental Engineer | Bioinformatics | Epidemiological and Statistical Modeling" width="100%">
@@ -19,7 +18,7 @@
 
 I am an environmental engineer working at the interface between **biology and quantitative science**. My training and experience in environmental sciences, plant physiology, mycorrhizae, soil microbiology and environmental biotechnology give me a systems-level view of biological problems; my current focus is on **bioinformatics and viral genomics**, **epidemiological modeling**, and **time-series analysis of climate change**, using statistical and mathematical models to describe, test and understand complex biological and environmental systems.
 
-I aim to build research that is interdisciplinary, quantitative and **reproducible**.
+I am a researcher registered in Peru's national RENACYT system (Level VII, CONCYTEC). I aim to build research that is interdisciplinary, quantitative and **reproducible**.
 
 > This profile is an academic portfolio. Original data, preliminary results and unpublished manuscripts are intentionally **not** published here.
 
@@ -76,9 +75,14 @@ Public repositories will be added here when they are ready to share (code, docum
 
 ## Publications
 
-*Peer-reviewed publications are listed here with their DOI.*
+*Peer-reviewed publications, with DOI.*
 
-- Linares-Nima, L. M. & Huaytalla-Galindo, B. (2026). Epistemología aplicada, infoxicación y fake news: inteligencia artificial, confianza pública y democracia. *Desde el Sur*, 18(3), e0071. [https://doi.org/10.21142/DES-1803-2026-e0071](https://doi.org/10.21142/DES-1803-2026-e0071)
+- Linares-Nima, L. M. & Huaytalla-Galindo, B. J. (2026). Epistemología aplicada, infoxicación y fake news: inteligencia artificial, confianza pública y democracia. *Desde el Sur*, 18(3), e0071. [10.21142/DES-1803-2026-e0071](https://doi.org/10.21142/DES-1803-2026-e0071)
+- Linares-Nima, L. M. & Huaytalla-Galindo, B. J. (2026). Agronomic use of biol and its effects on soil quality and plant growth: a narrative synthesis with bibliometric analysis. *South Sustainability*, 7(1), e138. [10.21142/SS-0701-2026-e138](https://doi.org/10.21142/SS-0701-2026-e138)
+- Linares-Nima, L. M. et al. (2025). Propuesta de diseño de un Sistema de Calefacción Sostenible utilizando biomasa residual agrícola y ganadera para la producción de biogás en viviendas altoandinas. *Revista Científica Pakamuros*, 13(1). [10.37787/1sy5jt16](https://doi.org/10.37787/1sy5jt16)
+- Pérez Pérez, N. L., Linares-Nima, L. M. & Pérez Huamán, B. D. (2023). Valorización de propiedades fisicoquímicas de residuos sólidos orgánicos alimentarios para la elaboración de compostaje. *Revista del Instituto de Investigación de la Facultad de Minas, Metalurgia y Ciencias Geográficas*, 26(52), e24193. [10.15381/iigeo.v26i52.24193](https://doi.org/10.15381/iigeo.v26i52.24193)
+
+**Peer-review service:** *Acta Agronómica* and *La Granja – Revista de Ciencias de la Vida*.
 
 <!-- Add future publications above, keeping the same format. -->
 
@@ -95,8 +99,12 @@ I work toward analyses that others can inspect, rerun and build on:
 | Platform | Link |
 |:--|:--|
 | ORCID | [0000-0003-3618-3796](https://orcid.org/0000-0003-3618-3796) |
+| Scopus | [Author ID 60497828200](https://www.scopus.com/authid/detail.uri?authorId=60497828200) |
+| RENACYT (CONCYTEC, Peru) | [Level VII · P0177584](https://servicio-renacyt.concytec.gob.pe/ficha-renacyt/?idInvestigador=177584) |
+| CV Lattes | [lattes.cnpq.br/2214346043036831](https://lattes.cnpq.br/2214346043036831) |
+| ResearchGate | [Luis-Linares-Nima-2](https://www.researchgate.net/profile/Luis-Linares-Nima-2) |
+| LinkedIn | [luis-miguel-linares-nima](https://www.linkedin.com/in/luis-miguel-linares-nima-394944151) |
 | Google Scholar | *to be added* |
-| Academic website | *to be added* |
 
 ---
 
