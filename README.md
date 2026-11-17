@@ -104,7 +104,7 @@ I work toward analyses that others can inspect, rerun and build on:
 | CV Lattes | [lattes.cnpq.br/2214346043036831](https://lattes.cnpq.br/2214346043036831) |
 | ResearchGate | [Luis-Linares-Nima-2](https://www.researchgate.net/profile/Luis-Linares-Nima-2) |
 | LinkedIn | [luis-miguel-linares-nima](https://www.linkedin.com/in/luis-miguel-linares-nima-394944151) |
-| Google Scholar | *to be added* |
+| Google Scholar | [Google Scholar profile](https://scholar.google.com/citations?user=PryzWw8AAAAJ&hl=es) |
 
 ---
 
